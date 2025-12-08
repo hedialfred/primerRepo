@@ -70,3 +70,5 @@ while True:
         print("Opcion no valida, intente otra vez")
 
 print("Se ha finalizado el programa guardando el carrito")
+
+print("Priemr cambio git")

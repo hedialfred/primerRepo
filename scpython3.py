@@ -72,3 +72,9 @@ while True:
 print("Se ha finalizado el programa guardando el carrito")
 
 print("Priemr cambio git")
+listaEjemplo = [1,2,3,4,5]
+for elemento in listaEjemplo:
+    print("El nro es : ")
+    print(elemento)
+    print()
+    

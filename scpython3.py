@@ -80,7 +80,7 @@ for elemento in listaEjemplo:
 
     print("Nuevo cambio")
     print("Nuevo cambio 1")
-    print("Nuevo cambio 2")
+    print("Nuevo cambio master")
 
     print("nuevo cambio nube")
     

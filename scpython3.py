@@ -77,4 +77,8 @@ for elemento in listaEjemplo:
     print("El nro es : ")
     print(elemento)
     print()
+
+    print("Nuevo cambio")
+    print("Nuevo cambio 1")
+    print("Nuevo cambio 2")
     

@@ -79,8 +79,8 @@ for elemento in listaEjemplo:
     print()
 
     print("Nuevo cambio")
-    print("Nuevo cambio 1")
-    print("Nuevo cambio 2")
+    print("Nuevo cambio d")
+    print("Nuevo cambio c")
 
     print("nuevo cambio nube")
     
